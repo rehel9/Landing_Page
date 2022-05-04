@@ -3,7 +3,25 @@ body {
     flex-flow: column wrap;
 }
 
+ul {
+    display: flex;
+    flex-flow: row nowrap;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .header,
 .hero {
     background-color: #1f2937;
+    color: white;
 }
