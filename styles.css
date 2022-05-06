@@ -54,7 +54,7 @@ button {
         display: flex;
         flex-flow: column wrap;
         background: #1f2937;
-        gap: 10px;
+        gap: 3em;
 }
 
 .header {
