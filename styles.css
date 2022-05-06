@@ -50,6 +50,8 @@ button {
     font-size: 18px;
 }
 
+/*  Start Part of the Document  */
+
 .start {
         display: flex;
         flex-flow: column wrap;
@@ -82,3 +84,4 @@ button {
     width: 647px;
 }
 
+/*  Content part of the document    */
