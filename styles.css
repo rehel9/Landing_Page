@@ -54,6 +54,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 11em;
+    padding-bottom: 10em;
 }
 
 .header,
