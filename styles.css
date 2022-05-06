@@ -27,6 +27,15 @@ p {
     color: #e5e7eb;
 }
 
+button {
+    background-color: #3882F6;
+    padding: 5px 40px;
+    border-radius: 10%;
+    color: white;
+    font-weight: bolder;
+    border: 0px;
+}
+
 p,
 button {
     font-size: 18px;
