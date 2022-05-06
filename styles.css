@@ -85,3 +85,10 @@ button {
 }
 
 /*  Content part of the document    */
+
+.content {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    
+}
