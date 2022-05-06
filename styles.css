@@ -36,6 +36,15 @@ button {
     border: 0px;
 }
 
+img {
+    height: 245px;
+    width: 602px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
 p,
 button {
     font-size: 18px;
@@ -73,11 +82,3 @@ button {
     width: 647px;
 }
 
-img {
-    height: 245px;
-    width: 602px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: grey;
-}
