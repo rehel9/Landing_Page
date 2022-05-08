@@ -23,6 +23,12 @@ h1 {
 
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 p {
     color: #e5e7eb;
 }
