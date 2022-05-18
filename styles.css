@@ -46,15 +46,6 @@ button {
     border: 0px;
 }
 
-img {
-    height: 245px;
-    width: 602px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: grey;
-}
-
 p,
 button {
     font-size: 18px;
@@ -89,6 +80,16 @@ button {
 .hero {
     color: white;
 }
+
+.placeholder-image {
+    height: 245px;
+    width: 602px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
 
 .statement {
     width: 647px;
