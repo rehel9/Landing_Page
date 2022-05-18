@@ -103,3 +103,19 @@ button {
     justify-content: center;
     
 }
+
+.cards {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.image-content {
+    border: 4px solid blue;
+    padding: 50px;
+}
+
+.citeword {
+    color: black;
+    text-align: center;
+}
