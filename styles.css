@@ -109,7 +109,7 @@ button {
     flex-flow: row wrap;
     justify-content: space-evenly;
     margin: auto 300px;
-  margin-left: 0px;   
+    margin-left: 0px;
 }
 
 .card {
