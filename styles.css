@@ -141,13 +141,13 @@ button {
 /* Starts quote*/
 
 em{
+    font-size: 36px;
     text-align: center;
     color: #1f2937;
 }
 
 .quote {
     background: #e5e7eb;
-    font-size: 36px;
     height: 500px;
     width: auto;
     padding: 150px 500px;
