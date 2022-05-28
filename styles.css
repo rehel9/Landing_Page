@@ -161,6 +161,16 @@ em{
     font-weight: bolder;
 }
 
+.sign-up-cartel {
+    background: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 1000px;
+    border-radius: 5%;
+}
+
 /*  Footer part of tge page*/
 .footer {
     background: #1f2937;
