@@ -139,16 +139,20 @@ button {
 }
 
 /* Starts quote*/
+
+em{
+    text-align: center;
+    color: #1f2937;
+}
+
 .quote {
     background: #e5e7eb;
-    text-align: center;
     font-size: 36px;
-    color: #1f2937;
     height: 500px;
     width: auto;
+    padding: 150px 500px;
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-
 }
