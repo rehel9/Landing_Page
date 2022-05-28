@@ -156,3 +156,8 @@ em{
     justify-content: center;
     align-items: center;
 }
+
+.quote-person {
+    align-self: end;
+
+}
