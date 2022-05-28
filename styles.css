@@ -142,7 +142,6 @@ button {
 
 em{
     font-size: 36px;
-    text-align: center;
     color: #1f2937;
 }
 
@@ -159,5 +158,5 @@ em{
 
 .quote-person {
     align-self: end;
-
+    font-size: 1.5em;
 }
