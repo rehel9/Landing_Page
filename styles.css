@@ -161,3 +161,14 @@ em{
     font-size: 1.5em;
     font-weight: bolder;
 }
+
+/*  Footer part of tge page*/
+.footer {
+    background: #1f2937;
+    color: #e5e7eb;
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
