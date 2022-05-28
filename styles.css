@@ -115,6 +115,7 @@ button {
     flex-flow: row wrap;
     justify-content: space-evenly;
     margin: auto 300px auto 150px;
+    height: 550px;
 }
 
 .card {
