@@ -137,3 +137,14 @@ button {
     color: black;
     text-align: center;
 }
+
+/* Starts quote*/
+.quote {
+    background: #e5e7eb;
+    height: 500px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
